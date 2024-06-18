@@ -1,5 +1,5 @@
-Change #1. Custom version of the connector!
-Change #2:
+1. Change #1. Custom version of the connector!
+2. Change #2:
 - [MISP to Microsoft Sentinel integration](#misp-to-microsoft-sentinel-integration)
   - [Introduction](#introduction)
     - [Upload Indicators API and Graph API](#upload-indicators-api-and-graph-api)
