@@ -1,3 +1,5 @@
+This is custom version of the connector!
+
 # Step-by-Step Azure Function Setup
 
 This step-by-step instruction guides you through the process of setting up a complete Azure Function that will acquire Threat Intelligence from a MISP source, sanitize it, then writes it to 1 or multiple Microsoft Sentinel instances. 
