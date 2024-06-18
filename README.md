@@ -1,3 +1,4 @@
+Custom version of the connector:
 - [MISP to Microsoft Sentinel integration](#misp-to-microsoft-sentinel-integration)
   - [Introduction](#introduction)
     - [Upload Indicators API and Graph API](#upload-indicators-api-and-graph-api)
